@@ -1,7 +1,6 @@
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> **lostghouls/lostghouls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-💫 About Me: // Currently exploring the shadings of pt.. //<br><br>     Love making nfs or int !! <br>  I go by he/him online or any platforms <br><br>I match your mood.. EXAMP; you: HEYY!! , HELLOOO! me: HIIIIIIIII <br>it's like if your lowercase I do the same<br>#moodmatcher right. <br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 💫 About Me: // Currently exploring the shadings of pt.. //<br><br>     Love making nfs or int !! <br>  I go by he/him online or any platforms <br><br>I match your mood.. EXAMP; you: HEYY!! , HELLOOO! me: HIIIIIIIII <br>it's like if your lowercase I do the same<br>#moodmatcher right. <br>
 ## 🌐 Socials: [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/wizzzryyy0) 
 
 # 💻 Tech Stack:![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
