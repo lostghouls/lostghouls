@@ -1,4 +1,6 @@
-<!--
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> <!--
 **lostghouls/lostghouls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 💫 About Me: // Currently exploring the shadings of pt.. //<br><br>     Love making nfs or int !! <br>  I go by he/him online or any platforms <br><br>I match your mood.. EXAMP; you: HEYY!! , HELLOOO! me: HIIIIIIIII <br>it's like if your lowercase I do the same<br>#moodmatcher right. <br>
 ## 🌐 Socials: [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/wizzzryyy0) 
@@ -9,6 +11,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lostghouls&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=lostghouls&icon=7&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->yes ...
+[![](https://komarev.com/ghpvc/?username=lostghouls&icon=7&color=4)](https://visitcount.itsvg.in) ...
