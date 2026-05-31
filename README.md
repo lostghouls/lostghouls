@@ -1,5 +1,5 @@
 
-![image alt](https://github.com/lostghouls/lostghouls/blob/d9db222c3fc864869cb67a9026179e521b715aa9/%23sona%20%23art%20%23artstyle_.jpeg)
+ppsst
 
 
 https://wizzsself.straw.page/
